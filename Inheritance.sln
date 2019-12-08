@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineRadioDatabase04", "On
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MordorsCruelPlan", "MordorsCruelPlan\MordorsCruelPlan.csproj", "{570D511B-CB95-42C0-8467-62A6BD981F03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop02", "BookShop02\BookShop02.csproj", "{5D25BB18-9961-44CD-92F8-562A514AA52E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{570D511B-CB95-42C0-8467-62A6BD981F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{570D511B-CB95-42C0-8467-62A6BD981F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{570D511B-CB95-42C0-8467-62A6BD981F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D25BB18-9961-44CD-92F8-562A514AA52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D25BB18-9961-44CD-92F8-562A514AA52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D25BB18-9961-44CD-92F8-562A514AA52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D25BB18-9961-44CD-92F8-562A514AA52E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
